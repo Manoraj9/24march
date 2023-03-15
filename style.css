@@ -1,0 +1,37 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #C0C0C0;
+  color:  #000033;
+  box-sizing:border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  width: 100%;
+}
+
+p{
+  color: #003366;
+}
+
+.hr0 {
+  border: none;
+  border-top: 0.6px solid #000080;
+  margin: auto;
+}
+
+.centered-hr {
+  border: none;
+  border-top: 1px solid #850085;
+  margin: auto;
+  width: 200px;
+}
+
+.banner-area {
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+}
+div {text-align: center;}
